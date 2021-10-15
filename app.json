@@ -1,0 +1,16 @@
+{
+    "id": "ae92ce28-a01f-4b7a-aed7-374ac990e4a4",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Junk",
+        "homepage": "Junk",
+        "support": "Junk"
+    },
+    "name": "Junk",
+    "nameSlug": "junk",
+    "classFile": "JunkApp.ts",
+    "description": "Junk",
+    "implements": []
+}
